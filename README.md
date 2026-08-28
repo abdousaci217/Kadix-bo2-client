@@ -1,11 +1,11 @@
 **Kadix T6 Client** is a custom-built Python desktop application designed to fast managing/ installing, and toggling custom weapon textures and custom UI packs for Plutonium zombie Black Ops 2
-![Screenshot_2.png]() 
-![Screenshot_1.png]() 
-![Screenshot_3.png]() 
+![Screenshot_2.png](/Screenshot_2.png) 
+![Screenshot_1.png](Screenshot_1.png) 
+![Screenshot_3.png](Screenshot_3.png) 
 
 
 -  **You can add your own packs , iwi files**
--![Screenshot_4.png]() 
+-![Screenshot_4.png](Screenshot_4.png) 
 
 **Interactive Skins Libary Grid**: Browse and manage weapon textures, anime camos, and custom attachments through an organized card grid interface (--grid-cards-expanded).
 
