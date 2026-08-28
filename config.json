@@ -1,0 +1,9 @@
+{
+    "game_path": "C:\\Plutonium\\games\\bo2",
+    "mods_folder": "zone\\all",
+    "presets": {
+        "Max FOV": "cg_fov 120",
+        "Unlock FPS": "com_maxfps 250",
+        "Third Person": "cg_thirdperson 1"
+    }
+}
