@@ -1,6 +1,6 @@
 - TO DOWNLOAD OPEN DOWNLOAD FOLDER FROM HERE
 
-[![Download Kadix T6 Client Setup](https://img.shields.io/badge/DOWNLOAD-SETUP.EXE-red?style=for-the-badge&logo=windows)](https://github.com/abdousaci217/Kadix-bo2-client/raw/main/Download/1/KadixT6Client_Setup.exe)
+[![Download Setup](https://img.shields.io/badge/DOWNLOAD-SETUP.EXE-red?style=for-the-badge&logo=windows)](https://github.com/abdousaci217/Kadix-bo2-client/raw/main/Download/1/KadixT6Client_Setup.exe)
 
 
 
