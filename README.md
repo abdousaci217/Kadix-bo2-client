@@ -1,3 +1,10 @@
+- TO DOWNLOAD OPEN DOWNLOAD FOLDER FROM HERE
+
+[![Download Kadix T6 Client Setup](https://img.shields.io/badge/DOWNLOAD-SETUP.EXE-red?style=for-the-badge&logo=windows)](https://github.com/abdousaci217/Kadix-bo2-client/raw/main/Download/1/KadixT6Client_Setup.exe)
+
+
+
+
 **Kadix T6 Client** is a custom-built Python desktop application designed to fast managing/ installing, and toggling custom weapon textures and custom UI packs for Plutonium zombie Black Ops 2
 ![Screenshot_2.png](/Screenshot_2.png) 
 ![Screenshot_1.png](Screenshot_1.png) 
